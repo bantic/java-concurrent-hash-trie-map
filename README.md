@@ -6,7 +6,7 @@ conversion from Scala to Java.
 
 Idea + implementation techniques can be found in these reports written by Aleksandar Prokopec:
    * http://infoscience.epfl.ch/record/166908/files/ctries-techreport.pdf - this is a nice introduction to Ctries, along with a correctness proof
-   * http://lamp.epfl.ch/~prokopec/ctries-snapshot.pdf - a more up-to-date writeup which describes the snapshot operation
+   * http://lampwww.epfl.ch/~prokopec/ctries-snapshot.pdf - a more up-to-date writeup which describes the snapshot operation
 
 The original Scala implementation can be found here and is a part of scala.collection.concurrent:
    *   [Scala implementation](https://github.com/scala/scala/blob/930c85d6c96507d798d1847ea078eebf93dc0acb/src/library/scala/collection/concurrent/TrieMap.scala)
